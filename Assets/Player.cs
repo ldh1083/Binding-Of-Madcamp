@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -19,16 +20,29 @@ public class Player : MonoBehaviour
     Rigidbody2D rigidbody;
 
     public float bulletSpeed;
+
+    public static bool changingmap = false;
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
 
         anim = GetComponent<Animator>();
+        /*if (SceneManager.GetActiveScene().name == "Room1")
+        {
+            this.gameObject.transform.Translate(-4.38f, 16f, 0f);
+        }*/
+        
     }
 
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
     // Update is called once per frame
     void Update()
     {
+        if (changingmap)
+            setposition();
         moveControl();
         float shootHor = Input.GetAxis("ShootHorizontal");
         float shootVert = Input.GetAxis("ShootVertical");
@@ -91,5 +105,34 @@ public class Player : MonoBehaviour
                 (y < 0) ? Mathf.Floor(y) * bulletSpeed : Mathf.Ceil(y) * bulletSpeed,
                 0
             );
+    }
+
+    void setposition()
+    {
+        if (SceneManager.GetActiveScene().name == "Room9")
+        {
+            this.gameObject.transform.position = new Vector2(16.02f, -4.68f);
+        }
+        else if (this.gameObject.transform.position.y<-20.0f) // Entry to Room1
+        {
+            this.gameObject.transform.position = new Vector2(16.02f, -13.47f);
+        }
+        else if (this.gameObject.transform.position.y > -5f) // N to S
+        {
+            this.gameObject.transform.position = new Vector2(16.02f, -13.3f);
+        }
+        else if (this.gameObject.transform.position.y < -13f) // S to N
+        {
+            this.gameObject.transform.position = new Vector2(16.02f, -4.68f);
+        }
+        else if (this.gameObject.transform.position.x < 5.5f) // W to E
+        {
+            this.gameObject.transform.position = new Vector2(27.52f, -9.03f);
+        }
+        else // E to W
+        {
+            this.gameObject.transform.position = new Vector2(4.55f, -9.03f);
+        }
+        changingmap = false;
     }
 }

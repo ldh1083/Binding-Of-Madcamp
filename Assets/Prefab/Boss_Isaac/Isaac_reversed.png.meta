@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: fd86c6c587c6da64f8a208b7cd0c8d93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6279087666235758949
+    second: Isaac_reversed_0
+  - first:
+      213: 7610792265817838029
+    second: Isaac_reversed_1
+  - first:
+      213: -1718447595544287562
+    second: Isaac_reversed_2
+  - first:
+      213: 2975137966516565012
+    second: Isaac_reversed_3
+  - first:
+      213: 670250555924205777
+    second: Isaac_reversed_4
+  - first:
+      213: 2885200665497639097
+    second: Isaac_reversed_5
+  - first:
+      213: 2125835688577890795
+    second: Isaac_reversed_6
+  - first:
+      213: -374816493055068744
+    second: Isaac_reversed_7
+  - first:
+      213: 2031152108669126992
+    second: Isaac_reversed_8
+  - first:
+      213: 9165699263814511056
+    second: Isaac_reversed_9
+  - first:
+      213: -103411299096872794
+    second: Isaac_reversed_10
+  - first:
+      213: -8604667566051469017
+    second: Isaac_reversed_11
+  - first:
+      213: 6867751060643323203
+    second: Isaac_reversed_12
+  - first:
+      213: -2045650999207967710
+    second: Isaac_reversed_13
+  - first:
+      213: 1011245414994197052
+    second: Isaac_reversed_14
+  - first:
+      213: -8829527372113711332
+    second: Isaac_reversed_15
+  - first:
+      213: 1550300140468559969
+    second: Isaac_reversed_16
+  - first:
+      213: -4957051449939150841
+    second: Isaac_reversed_17
+  - first:
+      213: -1126192868718543661
+    second: Isaac_reversed_18
+  - first:
+      213: -7975861093881625533
+    second: Isaac_reversed_19
+  - first:
+      213: 4666858455912762844
+    second: Isaac_reversed_20
+  - first:
+      213: -528577708544929064
+    second: Isaac_reversed_21
+  - first:
+      213: 3816138838958365541
+    second: Isaac_reversed_22
+  - first:
+      213: -1606066169042005758
+    second: Isaac_reversed_23
+  - first:
+      213: -4160226291390976908
+    second: Isaac_reversed_24
+  - first:
+      213: 6531100086078011375
+    second: Isaac_reversed_25
+  - first:
+      213: 8125668181245359556
+    second: Isaac_reversed_26
+  - first:
+      213: -1984776594853902427
+    second: Isaac_reversed_27
+  - first:
+      213: 3665685084024474894
+    second: Isaac_reversed_28
+  - first:
+      213: -2131536751580425977
+    second: Isaac_reversed_29
+  - first:
+      213: 2739465194655713815
+    second: Isaac_reversed_30
+  - first:
+      213: -3351059015641156689
+    second: Isaac_reversed_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Isaac_reversed_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 101
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d483e6fcc32750800000000000000
+      internalID: 6279087666235758949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1dc57fd37fe9960800000000000000
+      internalID: 7610792265817838029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6657e3409d628e0800000000000000
+      internalID: -1718447595544287562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 74
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4147ff3b730d94920800000000000000
+      internalID: 2975137966516565012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 75
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0de5854553d4900800000000000000
+      internalID: 670250555924205777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 74
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b815b408ba4a0820800000000000000
+      internalID: 2885200665497639097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_6
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 75
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9788cab4c708d10800000000000000
+      internalID: 2125835688577890795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 74
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5be7ba2626ccaf0800000000000000
+      internalID: -374816493055068744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 75
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0594202d41a103c10800000000000000
+      internalID: 2031152108669126992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_9
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 60
+        width: 62
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d929b12bea133f70800000000000000
+      internalID: 9165699263814511056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8b19ba8fb909ef0800000000000000
+      internalID: -103411299096872794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 41
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7295d2b2074169880800000000000000
+      internalID: -8604667566051469017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 43
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d1577e3372f4f50800000000000000
+      internalID: 6867751060643323203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 43
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22449c921436c93e0800000000000000
+      internalID: -2045650999207967710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ab87dd85aa80e00800000000000000
+      internalID: 1011245414994197052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fe29ac2a7377580800000000000000
+      internalID: -8829527372113711332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_16
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 41
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160eddf83c5c38510800000000000000
+      internalID: 1550300140468559969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_17
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 43
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708ba0948f3053bb0800000000000000
+      internalID: -4957051449939150841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_18
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 43
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcf37f7d85fe50f0800000000000000
+      internalID: -1126192868718543661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 43
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344c351d79c005190800000000000000
+      internalID: -7975861093881625533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_20
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 28
+        width: 64
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd45b12a0304c040800000000000000
+      internalID: 4666858455912762844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d25df5ef5d1aa8f0800000000000000
+      internalID: -528577708544929064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 11
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5fa52e06a5f430800000000000000
+      internalID: 3816138838958365541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2019a7c145b16b9e0800000000000000
+      internalID: -1606066169042005758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_24
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c6664da38e346c0800000000000000
+      internalID: -4160226291390976908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7f33fcce023aa50800000000000000
+      internalID: 6531100086078011375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f2d1c82c24c070800000000000000
+      internalID: 8125668181245359556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_27
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 11
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a74939e338a474e0800000000000000
+      internalID: -1984776594853902427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0abb89212fd230800000000000000
+      internalID: 3665685084024474894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 11
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701db582e924b62e0800000000000000
+      internalID: -2131536751580425977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 11
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a000a8419840620800000000000000
+      internalID: 2739465194655713815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isaac_reversed_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 23
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3b6577495ae71d0800000000000000
+      internalID: -3351059015641156689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

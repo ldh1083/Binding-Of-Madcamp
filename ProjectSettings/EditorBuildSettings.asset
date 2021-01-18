@@ -4,5 +4,92 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 0a270b713145e364cbac27be97f83af4
+  - enabled: 1
+    path: Assets/Scenes/Entry.unity
+    guid: 292543b5a8949d64582cc903f76ed081
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room1.unity
+    guid: c52157906c320b44991e2fdccb710357
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room2.unity
+    guid: 2125977c7a4b6514ca0f09fd57ededea
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room3.unity
+    guid: 58dd84fba176878469381d10e92466b7
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room4.unity
+    guid: e15bd55a91dd5ad42baed503c4b2fc36
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room5.unity
+    guid: 5214679431f962c4eb4275cb2a9a6ca4
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room6.unity
+    guid: 0357ef34f4461944eae889ee3de8d169
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room7.unity
+    guid: b255dddd537dcff46b043485b0e85b26
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room8.unity
+    guid: d402bed646354f048a705f226d655ed6
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room9.unity
+    guid: 002ad2309e102b642a6ec70eacf0231b
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room10.unity
+    guid: cec5b9c9857f3c64d973f8cc09324b6c
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room11.unity
+    guid: bd8a8417fb660f341b5f209b5e25a072
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room12.unity
+    guid: 2da7c5beda0c6d94aaa969fd3466ef2d
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room13.unity
+    guid: 205af50842ea1ae4f8697aa42c2a3a93
+  - enabled: 1
+    path: Assets/Scenes/Rooms/Room14.unity
+    guid: d4690043aea45264abe79dd07703acb9
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_1.unity
+    guid: 277dda014351c44468d4176b0013e98e
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_2.unity
+    guid: 790594e497abf344facf654a8293ce4d
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_3.unity
+    guid: 55130d02b3539454d9144ffd5c31e04f
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_4.unity
+    guid: 6a6a084aba67a4343a125a56201f2b23
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_5.unity
+    guid: e3c8bac355de85146a2718848e11b676
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_6.unity
+    guid: 9e3f04f06f3abac4da34d86d9be1eb83
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_7.unity
+    guid: eb6a541c932de294badc9a481c356c33
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_8.unity
+    guid: b8390047dceb2e847aa8fd5d321f7d53
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_9.unity
+    guid: fcd7fa12437b7f74194e915ee0bd6a24
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_10.unity
+    guid: 4b93bdc6a06e59146bf63bb3145aa926
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_11.unity
+    guid: 30058b7227c9f4142bfe1cb2db58a940
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_12.unity
+    guid: e299fb240b7859e4aaa910a0580f4edf
+  - enabled: 1
+    path: Assets/Scenes/Rooms_2/Room2_13.unity
+    guid: d40c81f8b6b5ad84787b2bb7c65e2aff
   m_configObjects: {}
