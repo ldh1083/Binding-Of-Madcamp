@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: "Familiar\uBB38\uACBD"
   m_EditorClassIdentifier: 
   familiarType: "Familiar\uBB38\uACBD"
-  speed: 5
+  speed: 7
   fireDelay: 2
-  bulletPrefab: {fileID: 3859990128580048594, guid: de98ba97980548b4ab580289af60e3d7,
+  bulletPrefab: {fileID: 4059666656841043390, guid: 8991010e648cbd54c9d5c39586149750,
     type: 3}
