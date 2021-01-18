@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2375086978417990001
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2375086978417990007}
+  - component: {fileID: 2375086978417990000}
+  m_Layer: 0
+  m_Name: ItemsSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2375086978417990007
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2375086978417990001}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2375086978417990000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2375086978417990001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 623e9b8e7d6d6734bbc729f0469b4124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  items:
+  - gameObject: {fileID: 8968243853828474, guid: 12dac2659f56f4e4ca152b7683822177,
+      type: 3}
+    weight: 0.16
+  - gameObject: {fileID: 4092979607497371411, guid: 9039f0ea3fdba0b47a14e1bb40cfd992,
+      type: 3}
+    weight: 0.16
+  - gameObject: {fileID: 7947798032334962077, guid: 4bf49ecbb4f8b464ca6daaf6b71d356e,
+      type: 3}
+    weight: 0.16
+  - gameObject: {fileID: 646417812243165702, guid: 6a9869338ed597642a42ed0ca98b6ec3,
+      type: 3}
+    weight: 0.16
+  - gameObject: {fileID: 663001583326561108, guid: 932530f2c9b3ed440919edcf30217ff0,
+      type: 3}
+    weight: 0.06
+  - gameObject: {fileID: 672766712188282907, guid: b3e5eaf5ea0d74c43b6899bfa7b0b4d9,
+      type: 3}
+    weight: 0.06
+  - gameObject: {fileID: 8730830704527673919, guid: f0855cdd7b38f094e8e93860a7513a2a,
+      type: 3}
+    weight: 0.06
+  - gameObject: {fileID: 2606025513247795674, guid: 9953f9488631e774ebe530318929eb62,
+      type: 3}
+    weight: 0.16
+  - gameObject: {fileID: 412074682755036726, guid: 446d5f4229860f5499c481f85d7ca279,
+      type: 3}
+    weight: 0.16
+  panel: {fileID: 0}
