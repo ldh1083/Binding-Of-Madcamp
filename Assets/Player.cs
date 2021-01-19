@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -22,6 +23,13 @@ public class Player : MonoBehaviour
 
     public float bulletSpeed;
     private float bulletmultiple;
+
+
+    public static bool changingmap = false;
+    public static int enemy_num=0;
+    public static bool[] clear1 = new bool[14];
+    public static bool[] clear2 = new bool[13];
+    public static List<GameObject> items = new List<GameObject>();
     void Start()
     {
         rigidbody = GetComponent<Rigidbody2D>();
@@ -29,9 +37,16 @@ public class Player : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
+
     // Update is called once per frame
     void Update()
     {
+        if (changingmap)
+            setposition();
         shootDelay = GameController.FireRate;
         moveSpeed = GameController.MoveSpeed;
         bulletmultiple = GameController.BulletMultiple;
@@ -41,7 +56,8 @@ public class Player : MonoBehaviour
         laserPrefab.GetComponent<bullet>().SetBulletLifetime(bulletLifetime);
 
         while(GameController.SpawnFamiliar != 0){
-            Instantiate(문경, transform.position, transform.rotation);
+            GameObject obj = Instantiate(문경, transform.position, transform.rotation) as GameObject;
+            obj.transform.parent = this.transform;
             GameController.SpawnFamiliar--;
         }
         moveControl();
@@ -59,11 +75,11 @@ public class Player : MonoBehaviour
     void moveControl()
     {
 
-        Vector3 viewPos = Camera.main.WorldToViewportPoint(transform.position); //캐릭터의 월드 좌표를 뷰포트 좌표계로 변환해준다.
+        /*Vector3 viewPos = Camera.main.WorldToViewportPoint(transform.position); //캐릭터의 월드 좌표를 뷰포트 좌표계로 변환해준다.
         viewPos.x = Mathf.Clamp01(viewPos.x); //x값을 0이상, 1이하로 제한한다.
         viewPos.y = Mathf.Clamp01(viewPos.y); //y값을 0이상, 1이하로 제한한다.
         Vector3 worldPos = Camera.main.ViewportToWorldPoint(viewPos); //다시 월드 좌표로 변환한다.
-        transform.position = worldPos; //좌표를 적용한다.
+        transform.position = worldPos; //좌표를 적용한다.*/
 
         float distanceX = Input.GetAxis("Horizontal") * Time.deltaTime * moveSpeed;
         //아까 지정한 Axes를 통해 키의 방향을 판단하고 속도와 프레임 판정을 곱해 이동량을 정해줍니다.
@@ -157,5 +173,55 @@ public class Player : MonoBehaviour
                     );
                 }
             }
+    }
+
+    void setposition()
+    {
+        if (SceneManager.GetActiveScene().name == "Room9")
+        {
+            if (this.gameObject.transform.position.x>25)
+            {
+                this.gameObject.transform.position = new Vector2(4.55f, -9.03f);
+            }
+            else
+            {
+                this.gameObject.transform.position = new Vector2(16.02f, -4.68f);
+            }
+        }
+        else if (this.gameObject.transform.position.y < -20.0f) // Entry to Room1
+        {
+            this.gameObject.transform.position = new Vector2(16.02f, -13.47f);
+        }
+        else if (this.gameObject.transform.position.y > -5f) // N to S
+        {
+            this.gameObject.transform.position = new Vector2(16.02f, -13.3f);
+        }
+        else if (this.gameObject.transform.position.y < -13f) // S to N
+        {
+            this.gameObject.transform.position = new Vector2(16.02f, -4.68f);
+        }
+        else if (this.gameObject.transform.position.x < 5.5f) // W to E
+        {
+            this.gameObject.transform.position = new Vector2(27.52f, -9.03f);
+        }
+        else // E to W
+        {
+            this.gameObject.transform.position = new Vector2(4.55f, -9.03f);
+        }
+        changingmap = false;
+    }
+
+    public void find_item()
+    {
+
+        for (int i=0; i< items.Count; i++)
+        {
+            if (items[i].GetComponent<CollectionController>().map_name == SceneManager.GetActiveScene().name)
+            {
+                items[i].SetActive(true);
+                items.RemoveAt(i);
+                i--;
+            }
+        }
     }
 }

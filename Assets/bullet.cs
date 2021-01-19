@@ -67,16 +67,19 @@ public class bullet : MonoBehaviour {
           if(other.tag.Equals("Enemy") && (!isEnemyBullet && !isBossBullet)){ //부딪힌 객체가 적인지 검사합니다.
               //Destroy(other.gameObject); //부딪힌 적을 지웁니다.
               other.gameObject.GetComponent<enemy2>().DamageEnemy(bulletStrength);
-              print("one");
+              //print("one");
               Destroy(this.gameObject); //자기 자신을 지웁니다.
-              print("two");
+              //print("two");
           }
 
           if(other.tag.Equals("Player") && (isEnemyBullet || isBossBullet)){
               GameController.DamagePlayer(1);
               Destroy(gameObject);
-
           }
+            if(other.tag.Equals("Obstacle"))
+            {
+                Destroy(gameObject);
+            }
     }
 
     void OnBecameInvisible()

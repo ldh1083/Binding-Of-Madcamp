@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 787148257527606769}
   m_Layer: 0
   m_Name: "\uC0AC\uC545\uD55C \uD6A8\uC9C4\uC758 \uC77C\uCE68"
-  m_TagString: Untagged
+  m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

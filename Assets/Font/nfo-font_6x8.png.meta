@@ -1,0 +1,3980 @@
+fileFormatVersion: 2
+guid: c3c869929954636499e89c68bf583c9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5600780606014937294
+    second: nfo-font_6x8_0
+  - first:
+      213: -602423116810952797
+    second: nfo-font_6x8_1
+  - first:
+      213: 8880621064679883977
+    second: nfo-font_6x8_2
+  - first:
+      213: -4701179471799602648
+    second: nfo-font_6x8_3
+  - first:
+      213: -1573665511358250149
+    second: nfo-font_6x8_4
+  - first:
+      213: -3035963182325108813
+    second: nfo-font_6x8_5
+  - first:
+      213: 2746827052035115343
+    second: nfo-font_6x8_6
+  - first:
+      213: 4323899162981627184
+    second: nfo-font_6x8_7
+  - first:
+      213: 511324990372287952
+    second: nfo-font_6x8_8
+  - first:
+      213: 4514596836260300187
+    second: nfo-font_6x8_9
+  - first:
+      213: 2180913142278260263
+    second: nfo-font_6x8_10
+  - first:
+      213: 5915079486838350461
+    second: nfo-font_6x8_11
+  - first:
+      213: -7585364163605968282
+    second: nfo-font_6x8_12
+  - first:
+      213: -6254724917087624578
+    second: nfo-font_6x8_13
+  - first:
+      213: -2892841744530072801
+    second: nfo-font_6x8_14
+  - first:
+      213: -6965953964681996219
+    second: nfo-font_6x8_15
+  - first:
+      213: -8944599950108984188
+    second: nfo-font_6x8_16
+  - first:
+      213: -7853974101993916764
+    second: nfo-font_6x8_17
+  - first:
+      213: -3615909971387650997
+    second: nfo-font_6x8_18
+  - first:
+      213: -5144449267307354766
+    second: nfo-font_6x8_19
+  - first:
+      213: -8846469182350535134
+    second: nfo-font_6x8_20
+  - first:
+      213: 8325816292200523905
+    second: nfo-font_6x8_21
+  - first:
+      213: -1894362021489197247
+    second: nfo-font_6x8_22
+  - first:
+      213: 5111989373509127768
+    second: nfo-font_6x8_23
+  - first:
+      213: 1337686480238078472
+    second: nfo-font_6x8_24
+  - first:
+      213: 4605813951371004594
+    second: nfo-font_6x8_25
+  - first:
+      213: 7110480290045036064
+    second: nfo-font_6x8_26
+  - first:
+      213: 2133897811330077833
+    second: nfo-font_6x8_27
+  - first:
+      213: -153487218727021831
+    second: nfo-font_6x8_28
+  - first:
+      213: 8215926153319676867
+    second: nfo-font_6x8_29
+  - first:
+      213: 6506681627609005344
+    second: nfo-font_6x8_30
+  - first:
+      213: 3788464711605609587
+    second: nfo-font_6x8_31
+  - first:
+      213: 1837625283217276656
+    second: nfo-font_6x8_32
+  - first:
+      213: 5252596277848945923
+    second: nfo-font_6x8_33
+  - first:
+      213: -8392049518095248202
+    second: nfo-font_6x8_34
+  - first:
+      213: 6205067150112546002
+    second: nfo-font_6x8_35
+  - first:
+      213: 8465479695742692922
+    second: nfo-font_6x8_36
+  - first:
+      213: 1056999829604093073
+    second: nfo-font_6x8_37
+  - first:
+      213: -5496005662963843237
+    second: nfo-font_6x8_38
+  - first:
+      213: 6679677091926846627
+    second: nfo-font_6x8_39
+  - first:
+      213: 1004134674184402270
+    second: nfo-font_6x8_40
+  - first:
+      213: -8787055190024394638
+    second: nfo-font_6x8_41
+  - first:
+      213: -7883964645657113338
+    second: nfo-font_6x8_42
+  - first:
+      213: 6694429763670637299
+    second: nfo-font_6x8_43
+  - first:
+      213: 2005249328599184005
+    second: nfo-font_6x8_44
+  - first:
+      213: -3932208964804484853
+    second: nfo-font_6x8_45
+  - first:
+      213: 7053574240545540539
+    second: nfo-font_6x8_46
+  - first:
+      213: -2625965284321563840
+    second: nfo-font_6x8_47
+  - first:
+      213: -8375633602296432241
+    second: nfo-font_6x8_48
+  - first:
+      213: 2988760821593785560
+    second: nfo-font_6x8_49
+  - first:
+      213: -7323288350955737574
+    second: nfo-font_6x8_50
+  - first:
+      213: 1276909313247121325
+    second: nfo-font_6x8_51
+  - first:
+      213: 3188250391690444699
+    second: nfo-font_6x8_52
+  - first:
+      213: 7200605436152301253
+    second: nfo-font_6x8_53
+  - first:
+      213: 3123758787152323317
+    second: nfo-font_6x8_54
+  - first:
+      213: 1051581096495254320
+    second: nfo-font_6x8_55
+  - first:
+      213: -606896823281875623
+    second: nfo-font_6x8_56
+  - first:
+      213: -3585942068027550561
+    second: nfo-font_6x8_57
+  - first:
+      213: 6114666257643216013
+    second: nfo-font_6x8_58
+  - first:
+      213: -2842697733174411048
+    second: nfo-font_6x8_59
+  - first:
+      213: 2447548371652443083
+    second: nfo-font_6x8_60
+  - first:
+      213: 2731494618998661822
+    second: nfo-font_6x8_61
+  - first:
+      213: -978441751599969084
+    second: nfo-font_6x8_62
+  - first:
+      213: -8095339012354506214
+    second: nfo-font_6x8_63
+  - first:
+      213: 2022837188094124266
+    second: nfo-font_6x8_64
+  - first:
+      213: 7303152146009157510
+    second: nfo-font_6x8_65
+  - first:
+      213: -1073799283534294994
+    second: nfo-font_6x8_66
+  - first:
+      213: 2043346346546661222
+    second: nfo-font_6x8_67
+  - first:
+      213: -7156259954766601869
+    second: nfo-font_6x8_68
+  - first:
+      213: -3371950777723473237
+    second: nfo-font_6x8_69
+  - first:
+      213: -6301008482529122011
+    second: nfo-font_6x8_70
+  - first:
+      213: 1885010511870835611
+    second: nfo-font_6x8_71
+  - first:
+      213: -2378664669443909636
+    second: nfo-font_6x8_72
+  - first:
+      213: -3918908646008262733
+    second: nfo-font_6x8_73
+  - first:
+      213: -3913247715181020403
+    second: nfo-font_6x8_74
+  - first:
+      213: -1619345447550400962
+    second: nfo-font_6x8_75
+  - first:
+      213: -1951037272677033731
+    second: nfo-font_6x8_76
+  - first:
+      213: -6182481288111699626
+    second: nfo-font_6x8_77
+  - first:
+      213: -9000745730510963469
+    second: nfo-font_6x8_78
+  - first:
+      213: -5788640621885816880
+    second: nfo-font_6x8_79
+  - first:
+      213: -5857805830714041089
+    second: nfo-font_6x8_80
+  - first:
+      213: -5820441592994888891
+    second: nfo-font_6x8_81
+  - first:
+      213: 7723049723163011738
+    second: nfo-font_6x8_82
+  - first:
+      213: 3396910317871948779
+    second: nfo-font_6x8_83
+  - first:
+      213: 2170340712182854499
+    second: nfo-font_6x8_84
+  - first:
+      213: 4669282459788597523
+    second: nfo-font_6x8_85
+  - first:
+      213: 5279267945093932498
+    second: nfo-font_6x8_86
+  - first:
+      213: 1553968329372730461
+    second: nfo-font_6x8_87
+  - first:
+      213: 9023054554046312912
+    second: nfo-font_6x8_88
+  - first:
+      213: -8255336989544641522
+    second: nfo-font_6x8_89
+  - first:
+      213: 3178521825543469450
+    second: nfo-font_6x8_90
+  - first:
+      213: -4784559410119969527
+    second: nfo-font_6x8_91
+  - first:
+      213: 313706774721210728
+    second: nfo-font_6x8_92
+  - first:
+      213: -6316959586727776192
+    second: nfo-font_6x8_93
+  - first:
+      213: -6262282857166650183
+    second: nfo-font_6x8_94
+  - first:
+      213: -5470732129016536813
+    second: nfo-font_6x8_95
+  - first:
+      213: 1416954454259787236
+    second: nfo-font_6x8_96
+  - first:
+      213: -3897194201084493543
+    second: nfo-font_6x8_97
+  - first:
+      213: 3945090726020082562
+    second: nfo-font_6x8_98
+  - first:
+      213: 4150897168967223347
+    second: nfo-font_6x8_99
+  - first:
+      213: 7772205856395138864
+    second: nfo-font_6x8_100
+  - first:
+      213: 8852727250001418680
+    second: nfo-font_6x8_101
+  - first:
+      213: 4108486232108987538
+    second: nfo-font_6x8_102
+  - first:
+      213: 1317632113710684678
+    second: nfo-font_6x8_103
+  - first:
+      213: 7766238635636157868
+    second: nfo-font_6x8_104
+  - first:
+      213: 3935520767414807011
+    second: nfo-font_6x8_105
+  - first:
+      213: -3923682090275528423
+    second: nfo-font_6x8_106
+  - first:
+      213: 5891695620695400114
+    second: nfo-font_6x8_107
+  - first:
+      213: -1395195303820790051
+    second: nfo-font_6x8_108
+  - first:
+      213: 3148737575472669746
+    second: nfo-font_6x8_109
+  - first:
+      213: 1030456651427328914
+    second: nfo-font_6x8_110
+  - first:
+      213: 3327437804774419963
+    second: nfo-font_6x8_111
+  - first:
+      213: -1401038083130401081
+    second: nfo-font_6x8_112
+  - first:
+      213: -1935100322239530685
+    second: nfo-font_6x8_113
+  - first:
+      213: -6242452691359520051
+    second: nfo-font_6x8_114
+  - first:
+      213: 3953417345745226856
+    second: nfo-font_6x8_115
+  - first:
+      213: 5012721259525953793
+    second: nfo-font_6x8_116
+  - first:
+      213: 3294031096577857507
+    second: nfo-font_6x8_117
+  - first:
+      213: 2115059004036318133
+    second: nfo-font_6x8_118
+  - first:
+      213: 6828144685861115963
+    second: nfo-font_6x8_119
+  - first:
+      213: 600165143831725969
+    second: nfo-font_6x8_120
+  - first:
+      213: -4827321566710105311
+    second: nfo-font_6x8_121
+  - first:
+      213: 3984877985805034056
+    second: nfo-font_6x8_122
+  - first:
+      213: -4903688628505065372
+    second: nfo-font_6x8_123
+  - first:
+      213: -5749642832039877412
+    second: nfo-font_6x8_124
+  - first:
+      213: 5128057139727283511
+    second: nfo-font_6x8_125
+  - first:
+      213: 1973621040996446025
+    second: nfo-font_6x8_126
+  - first:
+      213: 2149086245717360517
+    second: nfo-font_6x8_127
+  - first:
+      213: -5530786412874890507
+    second: nfo-font_6x8_128
+  - first:
+      213: 927718559534836471
+    second: nfo-font_6x8_129
+  - first:
+      213: 3693277060011518231
+    second: nfo-font_6x8_130
+  - first:
+      213: -1358148798771432941
+    second: nfo-font_6x8_131
+  - first:
+      213: 8960907373274188321
+    second: nfo-font_6x8_132
+  - first:
+      213: 2817657247299755721
+    second: nfo-font_6x8_133
+  - first:
+      213: 3465452124657698724
+    second: nfo-font_6x8_134
+  - first:
+      213: 6264720588412785677
+    second: nfo-font_6x8_135
+  - first:
+      213: 7243790940520330583
+    second: nfo-font_6x8_136
+  - first:
+      213: -799704353712375713
+    second: nfo-font_6x8_137
+  - first:
+      213: -6161741065067109734
+    second: nfo-font_6x8_138
+  - first:
+      213: 8229876718364765021
+    second: nfo-font_6x8_139
+  - first:
+      213: 2568164272070200361
+    second: nfo-font_6x8_140
+  - first:
+      213: 7193104213467759592
+    second: nfo-font_6x8_141
+  - first:
+      213: -1705020226142684573
+    second: nfo-font_6x8_142
+  - first:
+      213: -6254406782636500836
+    second: nfo-font_6x8_143
+  - first:
+      213: -3573379691762116849
+    second: nfo-font_6x8_144
+  - first:
+      213: 294142505334275722
+    second: nfo-font_6x8_145
+  - first:
+      213: -3167060406790511707
+    second: nfo-font_6x8_146
+  - first:
+      213: -744564409500403617
+    second: nfo-font_6x8_147
+  - first:
+      213: -8637188033415594955
+    second: nfo-font_6x8_148
+  - first:
+      213: -2983755165578082865
+    second: nfo-font_6x8_149
+  - first:
+      213: 3556799207062177757
+    second: nfo-font_6x8_150
+  - first:
+      213: 2867820524562524494
+    second: nfo-font_6x8_151
+  - first:
+      213: 9160520478489974833
+    second: nfo-font_6x8_152
+  - first:
+      213: -8907955666822898807
+    second: nfo-font_6x8_153
+  - first:
+      213: -9108345271426609212
+    second: nfo-font_6x8_154
+  - first:
+      213: -2105543408489965148
+    second: nfo-font_6x8_155
+  - first:
+      213: 4061670007894323633
+    second: nfo-font_6x8_156
+  - first:
+      213: 2671234278955976202
+    second: nfo-font_6x8_157
+  - first:
+      213: 3435942614636304119
+    second: nfo-font_6x8_158
+  - first:
+      213: -6437132054295849405
+    second: nfo-font_6x8_159
+  - first:
+      213: -5088849137598634294
+    second: nfo-font_6x8_160
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nfo-font_6x8_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8da667948f9bd40800000000000000
+      internalID: 5600780606014937294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afdff5fd53c3a7f0800000000000000
+      internalID: -602423116810952797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c488198ecd4e3b70800000000000000
+      internalID: 8880621064679883977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_3
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822b606ad2e02ceb0800000000000000
+      internalID: -4701179471799602648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5345381e87392ae0800000000000000
+      internalID: -1573665511358250149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfe85622971ed5d0800000000000000
+      internalID: -3035963182325108813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f498cf786a0be1620800000000000000
+      internalID: 2746827052035115343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f0263163910c30800000000000000
+      internalID: 4323899162981627184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59bef9e57981700800000000000000
+      internalID: 511324990372287952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_9
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95c56937e117ae30800000000000000
+      internalID: 4514596836260300187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7260a7ba2f8244e10800000000000000
+      internalID: 2180913142278260263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72233f2475961250800000000000000
+      internalID: 5915079486838350461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ac9407b7f5bb690800000000000000
+      internalID: -7585364163605968282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72253da3d0c239a0800000000000000
+      internalID: -6254724917087624578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b1dd1a2cf8ad7d0800000000000000
+      internalID: -2892841744530072801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548d76db6c5f35f90800000000000000
+      internalID: -6965953964681996219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cf6c36cb56ed380800000000000000
+      internalID: -8944599950108984188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f8879a24110390800000000000000
+      internalID: -7853974101993916764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c65a7f905b1ddc0800000000000000
+      internalID: -3615909971387650997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_19
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756029d5ae3b98b0800000000000000
+      internalID: -5144449267307354766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2265e8536270b3580800000000000000
+      internalID: -8846469182350535134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a5c14ecd3b8370800000000000000
+      internalID: 8325816292200523905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f352937cfd5b5e0800000000000000
+      internalID: -1894362021489197247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e459f204f61f640800000000000000
+      internalID: 5111989373509127768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_24
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aee6334ca609210800000000000000
+      internalID: 1337686480238078472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_25
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bac109d2632bef30800000000000000
+      internalID: 4605813951371004594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_26
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0260d8e96208da260800000000000000
+      internalID: 7110480290045036064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_27
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9841057e0c02d9d10800000000000000
+      internalID: 2133897811330077833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f296321034beddf0800000000000000
+      internalID: -153487218727021831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_29
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf57d7e45d40270800000000000000
+      internalID: 8215926153319676867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_30
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02df13867706c4a50800000000000000
+      internalID: 6506681627609005344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_31
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374ea534594539430800000000000000
+      internalID: 3788464711605609587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe317c757e808910800000000000000
+      internalID: 1837625283217276656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b9b93c78f4e840800000000000000
+      internalID: 5252596277848945923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_34
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d1702d63798b80800000000000000
+      internalID: -8392049518095248202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_35
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc57e972b3dc1650800000000000000
+      internalID: 6205067150112546002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e66066eec6b7570800000000000000
+      internalID: 8465479695742692922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_37
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c433baeb73bae00800000000000000
+      internalID: 1056999829604093073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_38
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f3187f7f34ab3b0800000000000000
+      internalID: -5496005662963843237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac2d96bceaf2bc50800000000000000
+      internalID: 6679677091926846627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55f9618a276fed00800000000000000
+      internalID: 1004134674184402270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e7d84cdb1e0680800000000000000
+      internalID: -8787055190024394638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d8ed10de7869290800000000000000
+      internalID: -7883964645657113338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_43
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf365c66467ec50800000000000000
+      internalID: 6694429763670637299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582be3dd3a314db10800000000000000
+      internalID: 2005249328599184005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_45
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e83eb7ccfd69c0800000000000000
+      internalID: -3932208964804484853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_46
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9009c766453e160800000000000000
+      internalID: 7053574240545540539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_47
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b6183ac72be8bd0800000000000000
+      internalID: -2625965284321563840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_48
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89bb4e5d95c3cb80800000000000000
+      internalID: -8375633602296432241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_49
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4c3b1d1263a7920800000000000000
+      internalID: 2988760821593785560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_50
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee6859b047e5a90800000000000000
+      internalID: -7323288350955737574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_51
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf8b7a414e78b110800000000000000
+      internalID: 1276909313247121325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f75b3d6d0fe3c20800000000000000
+      internalID: 3188250391690444699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ca956e70bde360800000000000000
+      internalID: 7200605436152301253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f228380112d95b20800000000000000
+      internalID: 3123758787152323317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_55
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b8d1d8f67f79e00800000000000000
+      internalID: 1051581096495254320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_56
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95588f00e8ed397f0800000000000000
+      internalID: -606896823281875623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94961230bc2c3ec0800000000000000
+      internalID: -3585942068027550561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_58
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c14ee7098abd450800000000000000
+      internalID: 6114666257643216013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_59
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c4521975bc88d0800000000000000
+      internalID: -2842697733174411048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_60
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbfdeeb64077f120800000000000000
+      internalID: 2447548371652443083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_61
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb26e4742e738e520800000000000000
+      internalID: 2731494618998661822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_62
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc09723960eb62f0800000000000000
+      internalID: -978441751599969084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_63
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a128f382f0497af80800000000000000
+      internalID: -8095339012354506214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_64
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0ecc284bf821c10800000000000000
+      internalID: 2022837188094124266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_65
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe18bde220a5560800000000000000
+      internalID: 7303152146009157510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_66
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e209ed8ad391911f0800000000000000
+      internalID: -1073799283534294994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66781031dac6b5c10800000000000000
+      internalID: 2043346346546661222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a8c39c7bdfac90800000000000000
+      internalID: -7156259954766601869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_69
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2b0bd02ac6431d0800000000000000
+      internalID: -3371950777723473237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_70
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529e0285b225e88a0800000000000000
+      internalID: -6301008482529122011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_71
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b30f5c217e82a10800000000000000
+      internalID: 1885010511870835611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_72
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7160af5194dfed0800000000000000
+      internalID: -2378664669443909636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf6877895d3d99c0800000000000000
+      internalID: -3918908646008262733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_74
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb682bfe951b9c0800000000000000
+      internalID: -3913247715181020403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_75
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36cc1625ede689e0800000000000000
+      internalID: -1619345447550400962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_76
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8d98200f58ce4e0800000000000000
+      internalID: -1951037272677033731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_77
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6594a9f460a633aa0800000000000000
+      internalID: -6182481288111699626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_78
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcb743327de61380800000000000000
+      internalID: -9000745730510963469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_79
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df7910260e9aafa0800000000000000
+      internalID: -5788640621885816880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_80
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcd31902a4e4bea0800000000000000
+      internalID: -5857805830714041089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_81
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54381ad8533a93fa0800000000000000
+      internalID: -5820441592994888891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_82
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a6fc30ec8cd2b60800000000000000
+      internalID: 7723049723163011738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_83
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ed9ebfef342f20800000000000000
+      internalID: 3396910317871948779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_84
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 0
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3633a37f0699e1e10800000000000000
+      internalID: 2170340712182854499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_85
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31959a388af9cc040800000000000000
+      internalID: 4669282459788597523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_86
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d52e6da93ab34940800000000000000
+      internalID: 5279267945093932498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_87
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54087856fdc09510800000000000000
+      internalID: 1553968329372730461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_88
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b6ea8f44583d70800000000000000
+      internalID: 9023054554046312912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_89
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8c052fb62f6d80800000000000000
+      internalID: -8255336989544641522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_90
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89385282c06c1c20800000000000000
+      internalID: 3178521825543469450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_91
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905fb01f094d99db0800000000000000
+      internalID: -4784559410119969527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_92
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86924e646a28a5400800000000000000
+      internalID: 313706774721210728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_93
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040b79c79b6a558a0800000000000000
+      internalID: -6316959586727776192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_94
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4409f9be6e719a0800000000000000
+      internalID: -6262282857166650183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_95
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31127a42d1e0414b0800000000000000
+      internalID: -5470732129016536813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_96
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5ef0d91980aa310800000000000000
+      internalID: 1416954454259787236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_97
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91185a7b5826ae9c0800000000000000
+      internalID: -3897194201084493543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_98
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b6d130d17cfb630800000000000000
+      internalID: 3945090726020082562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_99
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33847779bf2fa9930800000000000000
+      internalID: 4150897168967223347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_100
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03794a72c0c6cdb60800000000000000
+      internalID: 7772205856395138864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_101
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b951c5b7843bda70800000000000000
+      internalID: 8852727250001418680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_102
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294707dd576440930800000000000000
+      internalID: 4108486232108987538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_103
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a5f522d6b294210800000000000000
+      internalID: 1317632113710684678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_104
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade10e44e837cb60800000000000000
+      internalID: 7766238635636157868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_105
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9aee36947cd9630800000000000000
+      internalID: 3935520767414807011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_106
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a09d6de74c89c0800000000000000
+      internalID: -3923682090275528423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_107
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be164493f183c150800000000000000
+      internalID: 5891695620695400114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_108
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6f773634543ace0800000000000000
+      internalID: -1395195303820790051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_109
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23429f4642092bb20800000000000000
+      internalID: 3148737575472669746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_110
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293b3c86ddaec4e00800000000000000
+      internalID: 1030456651427328914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_111
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfde8cdcd0f6d2e20800000000000000
+      internalID: 3327437804774419963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_112
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ced73259438e8ce0800000000000000
+      internalID: -1401038083130401081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_113
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3493b2072842525e0800000000000000
+      internalID: -1935100322239530685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_114
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaa554e95a5e59a0800000000000000
+      internalID: -6242452691359520051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_115
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c030e312c5dd630800000000000000
+      internalID: 3953417345745226856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_116
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d7105d63c09540800000000000000
+      internalID: 5012721259525953793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_117
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e71d9e64dfb6bd20800000000000000
+      internalID: 3294031096577857507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_118
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3839645f23a5d10800000000000000
+      internalID: 2115059004036318133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_119
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3819bb2a6172ce50800000000000000
+      internalID: 6828144685861115963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_120
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19749acb407345800800000000000000
+      internalID: 600165143831725969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_121
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b79af7c98e10db0800000000000000
+      internalID: -4827321566710105311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_122
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842ee215a612d4730800000000000000
+      internalID: 3984877985805034056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_123
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46845d85c2992fbb0800000000000000
+      internalID: -4903688628505065372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_124
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd464e2ae4a2530b0800000000000000
+      internalID: -5749642832039877412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_125
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735b9598cc48a2740800000000000000
+      internalID: 5128057139727283511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_126
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 0
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f64dd41e5b36b10800000000000000
+      internalID: 1973621040996446025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_127
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f39abdd8613dd10800000000000000
+      internalID: 2149086245717360517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_128
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f209049f03be33b0800000000000000
+      internalID: -5530786412874890507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_129
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 4
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa6c985d1befdc00800000000000000
+      internalID: 927718559534836471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_130
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719e5131be7214330800000000000000
+      internalID: 3693277060011518231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_131
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 0
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312fa110dd2e62de0800000000000000
+      internalID: -1358148798771432941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_132
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 0
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12acf2177c98b5c70800000000000000
+      internalID: 8960907373274188321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_133
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5b1c76545a1720800000000000000
+      internalID: 2817657247299755721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_134
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7485cb852c71030800000000000000
+      internalID: 3465452124657698724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_135
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d049b69ee22c0f650800000000000000
+      internalID: 6264720588412785677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_136
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75538ec2b7d178460800000000000000
+      internalID: 7243790940520330583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_137
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58f3a79021e6e4f0800000000000000
+      internalID: -799704353712375713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_138
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92ecbac5291d7aa0800000000000000
+      internalID: -6161741065067109734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_139
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ba3678545663270800000000000000
+      internalID: 8229876718364765021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_140
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 0
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c08997cc3f3a320800000000000000
+      internalID: 2568164272070200361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_141
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e38c14eb2a03d360800000000000000
+      internalID: 7193104213467759592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_142
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ab8ed432d8658e0800000000000000
+      internalID: -1705020226142684573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_143
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9858202b22e339a0800000000000000
+      internalID: -6254406782636500836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_144
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f079ce85a1ec86ec0800000000000000
+      internalID: -3573379691762116849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_145
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8efac7dc01051400800000000000000
+      internalID: 294142505334275722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_146
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32c0ff6575c04d0800000000000000
+      internalID: -3167060406790511707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_147
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58745b4d96caa5f0800000000000000
+      internalID: -744564409500403617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_148
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 0
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c3202de3b822880800000000000000
+      internalID: -8637188033415594955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_149
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 0
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc54bfa4c729796d0800000000000000
+      internalID: -2983755165578082865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_150
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7055ab80a4c5130800000000000000
+      internalID: 3556799207062177757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_151
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49af1e929b8cc720800000000000000
+      internalID: 2867820524562524494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_152
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138161637d4b02f70800000000000000
+      internalID: 9160520478489974833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_153
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bd7147485906480800000000000000
+      internalID: -8907955666822898807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_154
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 0
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0205db38a89180800000000000000
+      internalID: -9108345271426609212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_155
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a95ac5fc6b97c2e0800000000000000
+      internalID: -2105543408489965148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_156
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1366f3a53fd5830800000000000000
+      internalID: 4061670007894323633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_157
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0684058c61221520800000000000000
+      internalID: 2671234278955976202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_158
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f616068a9beeaf20800000000000000
+      internalID: 3435942614636304119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_159
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 4
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3465a638086baa6a0800000000000000
+      internalID: -6437132054295849405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nfo-font_6x8_160
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 2
+        width: 33
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac661e5dba6c069b0800000000000000
+      internalID: -5088849137598634294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

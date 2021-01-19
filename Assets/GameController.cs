@@ -18,7 +18,7 @@ public class GameController : MonoBehaviour
 
     private static int gracePeriod = 3;
     private static bool isGrace = false;
-    private static float moveSpeed = 10f;
+    private static float moveSpeed = 15f;
     private static float fireRate = 0.5f;
     private static float bulletSize = 0.5f;
     private static float bulletMultiple = 1;

@@ -1,0 +1,1580 @@
+fileFormatVersion: 2
+guid: decfa6c95bdb62945b1b2f2a1f201232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4355417454257054091
+    second: gradbubble-32x32-wip_0
+  - first:
+      213: 162416064362994135
+    second: gradbubble-32x32-wip_1
+  - first:
+      213: -546568007400643516
+    second: gradbubble-32x32-wip_2
+  - first:
+      213: 411200600747163541
+    second: gradbubble-32x32-wip_3
+  - first:
+      213: -2870784784083428282
+    second: gradbubble-32x32-wip_4
+  - first:
+      213: 8997932700598984762
+    second: gradbubble-32x32-wip_5
+  - first:
+      213: 6930897680249935694
+    second: gradbubble-32x32-wip_6
+  - first:
+      213: 6864817049777557878
+    second: gradbubble-32x32-wip_7
+  - first:
+      213: -4501425557539482337
+    second: gradbubble-32x32-wip_8
+  - first:
+      213: -1793406956153949668
+    second: gradbubble-32x32-wip_9
+  - first:
+      213: 5974120344700216308
+    second: gradbubble-32x32-wip_10
+  - first:
+      213: -8616532278364044909
+    second: gradbubble-32x32-wip_11
+  - first:
+      213: -5652897706615265126
+    second: gradbubble-32x32-wip_12
+  - first:
+      213: -3590449050741309286
+    second: gradbubble-32x32-wip_13
+  - first:
+      213: 7616142459044913689
+    second: gradbubble-32x32-wip_14
+  - first:
+      213: -1943666253885473884
+    second: gradbubble-32x32-wip_15
+  - first:
+      213: -49545216262339158
+    second: gradbubble-32x32-wip_16
+  - first:
+      213: 3558603484564383336
+    second: gradbubble-32x32-wip_17
+  - first:
+      213: 9036814146402790143
+    second: gradbubble-32x32-wip_18
+  - first:
+      213: 6771602998102170693
+    second: gradbubble-32x32-wip_19
+  - first:
+      213: -3739946716767826142
+    second: gradbubble-32x32-wip_20
+  - first:
+      213: 3580589320381075679
+    second: gradbubble-32x32-wip_21
+  - first:
+      213: -4357712729237428131
+    second: gradbubble-32x32-wip_22
+  - first:
+      213: 6566289868186299261
+    second: gradbubble-32x32-wip_23
+  - first:
+      213: -4934616823730980029
+    second: gradbubble-32x32-wip_24
+  - first:
+      213: 203203006078709625
+    second: gradbubble-32x32-wip_25
+  - first:
+      213: -640567018529235170
+    second: gradbubble-32x32-wip_26
+  - first:
+      213: -6186143814002551430
+    second: gradbubble-32x32-wip_27
+  - first:
+      213: -1744759241965232190
+    second: gradbubble-32x32-wip_28
+  - first:
+      213: 8359492154019079622
+    second: gradbubble-32x32-wip_29
+  - first:
+      213: 8833151257876048701
+    second: gradbubble-32x32-wip_30
+  - first:
+      213: 3846512909491559953
+    second: gradbubble-32x32-wip_31
+  - first:
+      213: 5329863846893960687
+    second: gradbubble-32x32-wip_32
+  - first:
+      213: -4003874864074205365
+    second: gradbubble-32x32-wip_33
+  - first:
+      213: -2172720036155525511
+    second: gradbubble-32x32-wip_34
+  - first:
+      213: -972576782997600597
+    second: gradbubble-32x32-wip_35
+  - first:
+      213: 5603000889590870736
+    second: gradbubble-32x32-wip_36
+  - first:
+      213: 4286760252606279941
+    second: gradbubble-32x32-wip_37
+  - first:
+      213: -5619790815761179755
+    second: gradbubble-32x32-wip_38
+  - first:
+      213: 8093104328706125821
+    second: gradbubble-32x32-wip_39
+  - first:
+      213: 2281241638049467608
+    second: gradbubble-32x32-wip_40
+  - first:
+      213: -4900512405004249512
+    second: gradbubble-32x32-wip_41
+  - first:
+      213: 7087900004085647673
+    second: gradbubble-32x32-wip_42
+  - first:
+      213: -35395499762695247
+    second: gradbubble-32x32-wip_43
+  - first:
+      213: 4510022294084391884
+    second: gradbubble-32x32-wip_44
+  - first:
+      213: 5420165829589581295
+    second: gradbubble-32x32-wip_45
+  - first:
+      213: 8242728283581452551
+    second: gradbubble-32x32-wip_46
+  - first:
+      213: -7414745392273663949
+    second: gradbubble-32x32-wip_47
+  - first:
+      213: 8542340060224045810
+    second: gradbubble-32x32-wip_48
+  - first:
+      213: -2552681091156997865
+    second: gradbubble-32x32-wip_49
+  - first:
+      213: 8217350363336092607
+    second: gradbubble-32x32-wip_50
+  - first:
+      213: -6510901440090102220
+    second: gradbubble-32x32-wip_51
+  - first:
+      213: 3807723613441585022
+    second: gradbubble-32x32-wip_52
+  - first:
+      213: -6636641888461776215
+    second: gradbubble-32x32-wip_53
+  - first:
+      213: 4418643909172222318
+    second: gradbubble-32x32-wip_54
+  - first:
+      213: 1241297078419028916
+    second: gradbubble-32x32-wip_55
+  - first:
+      213: -7960097792318966089
+    second: gradbubble-32x32-wip_56
+  - first:
+      213: -1862745165976401629
+    second: gradbubble-32x32-wip_57
+  - first:
+      213: -5836154026680798708
+    second: gradbubble-32x32-wip_58
+  - first:
+      213: 7499317912652892479
+    second: gradbubble-32x32-wip_59
+  - first:
+      213: -6469821427420350184
+    second: gradbubble-32x32-wip_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1346
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ed87eb6e27e83c0800000000000000
+      internalID: -4355417454257054091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1314
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d95c2ecc84014200800000000000000
+      internalID: 162416064362994135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1282
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444aa490b433a68f0800000000000000
+      internalID: -546568007400643516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1250
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f36fa84c0e4b500800000000000000
+      internalID: 411200600747163541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1218
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5c1ee27ce828d0800000000000000
+      internalID: -2870784784083428282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1186
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e21c3e141fdc70800000000000000
+      internalID: 8997932700598984762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1154
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4750edf7be7f2060800000000000000
+      internalID: 6930897680249935694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1122
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67159044cbab44f50800000000000000
+      internalID: 6864817049777557878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1090
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f159ef31e49b781c0800000000000000
+      internalID: -4501425557539482337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1058
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12bab010e98c17e0800000000000000
+      internalID: -1793406956153949668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1026
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f36a4f1dc658e250800000000000000
+      internalID: 5974120344700216308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 994
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3918c609b8deb6880800000000000000
+      internalID: -8616532278364044909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 962
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98a3957c7fdc81b0800000000000000
+      internalID: -5652897706615265126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 930
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a900d628c992c2ec0800000000000000
+      internalID: -3590449050741309286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 898
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126426e639f1b960800000000000000
+      internalID: 7616142459044913689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 866
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abfd3f07d5b605e0800000000000000
+      internalID: -1943666253885473884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 832
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa50d5863eaff4ff0800000000000000
+      internalID: -49545216262339158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 802
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8666de1d303b26130800000000000000
+      internalID: 3558603484564383336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 770
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa20994696396d70800000000000000
+      internalID: 9036814146402790143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 738
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c99dd9c0199fd50800000000000000
+      internalID: 6771602998102170693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 706
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f4a24b64a091cc0800000000000000
+      internalID: -3739946716767826142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 674
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd01fdf140fc0b130800000000000000
+      internalID: 3580589320381075679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 642
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58ea946c5b4683c0800000000000000
+      internalID: -4357712729237428131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 610
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bad7d68d5202b50800000000000000
+      internalID: 6566289868186299261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 578
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b39deb428b48bb0800000000000000
+      internalID: -4934616823730980029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 546
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fec92be0ce1d200800000000000000
+      internalID: 203203006078709625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fdbb5c0bf3c17f0800000000000000
+      internalID: -640567018529235170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d5ec0af6662aa0800000000000000
+      internalID: -6186143814002551430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf151ca6be59c7e0800000000000000
+      internalID: -1744759241965232190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 443
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e8f6d2d1e20470800000000000000
+      internalID: 8359492154019079622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 418
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b2ffcd448a59a70800000000000000
+      internalID: 8833151257876048701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 411
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed23a8c1f816530800000000000000
+      internalID: 3846512909491559953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 386
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedbf4f0eea77f940800000000000000
+      internalID: 5329863846893960687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 379
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47ddb946016f68c0800000000000000
+      internalID: -4003874864074205365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 354
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976739083a2f8d1e0800000000000000
+      internalID: -2172720036155525511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 347
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c2ac9196b082f0800000000000000
+      internalID: -972576782997600597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f2448f9bd1cd40800000000000000
+      internalID: 5603000889590870736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 315
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017cddccb1ad7b30800000000000000
+      internalID: 4286760252606279941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_38
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 315
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b5d8a270e7202b0800000000000000
+      internalID: -5619790815761179755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 290
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff64b2028b705070800000000000000
+      internalID: 8093104328706125821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_40
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 283
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc4caee2998af10800000000000000
+      internalID: 2281241638049467608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 258
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85693528ee1edfbb0800000000000000
+      internalID: -4900512405004249512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 251
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939c30b10874d5260800000000000000
+      internalID: 7087900004085647673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 226
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b34ff10bff328ff0800000000000000
+      internalID: -35395499762695247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_44
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 219
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc31eff9161d69e30800000000000000
+      internalID: 4510022294084391884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 219
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb560da1c483b40800000000000000
+      internalID: 5420165829589581295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70110fab3bd046270800000000000000
+      internalID: 8242728283581452551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 187
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385099c958891990800000000000000
+      internalID: -7414745392273663949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f24e38860d7c8670800000000000000
+      internalID: 8542340060224045810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7190bb0821e039cd0800000000000000
+      internalID: -2552681091156997865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb23993e94e90270800000000000000
+      internalID: 8217350363336092607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 123
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436a9dfe2a1a4a5a0800000000000000
+      internalID: -6510901440090102220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 123
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f6d06c370c7d430800000000000000
+      internalID: 3807723613441585022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa12c86d59e5e3a0800000000000000
+      internalID: -6636641888461776215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_54
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 91
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e695723793d225d30800000000000000
+      internalID: 4418643909172222318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb75ebbd19f93110800000000000000
+      internalID: 1241297078419028916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 59
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f4777b3d088190800000000000000
+      internalID: -7960097792318966089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32986ea04233626e0800000000000000
+      internalID: -1862745165976401629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 27
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b93185d0d10fa0800000000000000
+      internalID: -5836154026680798708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 27
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39466198ede21860800000000000000
+      internalID: 7499317912652892479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gradbubble-32x32-wip_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819366ab0b39636a0800000000000000
+      internalID: -6469821427420350184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

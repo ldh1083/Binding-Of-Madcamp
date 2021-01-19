@@ -1,0 +1,1364 @@
+fileFormatVersion: 2
+guid: c52e98030a695064ebc639dfff245dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5818592567546419864
+    second: nuskool_krome_64x64_0
+  - first:
+      213: -8816912362941450523
+    second: nuskool_krome_64x64_1
+  - first:
+      213: -4418541370262367663
+    second: nuskool_krome_64x64_2
+  - first:
+      213: -6715516484096045733
+    second: nuskool_krome_64x64_3
+  - first:
+      213: 5132162479806306883
+    second: nuskool_krome_64x64_4
+  - first:
+      213: -1680269832219016347
+    second: nuskool_krome_64x64_5
+  - first:
+      213: 3978195583079630722
+    second: nuskool_krome_64x64_6
+  - first:
+      213: 7067081266803828678
+    second: nuskool_krome_64x64_7
+  - first:
+      213: 250544196843536504
+    second: nuskool_krome_64x64_8
+  - first:
+      213: -3983992109126735056
+    second: nuskool_krome_64x64_9
+  - first:
+      213: 7438706125898263690
+    second: nuskool_krome_64x64_10
+  - first:
+      213: 1033162762721807946
+    second: nuskool_krome_64x64_11
+  - first:
+      213: 3637287297119631896
+    second: nuskool_krome_64x64_12
+  - first:
+      213: 4908075895319070901
+    second: nuskool_krome_64x64_13
+  - first:
+      213: -558994272847757015
+    second: nuskool_krome_64x64_14
+  - first:
+      213: -1809048594671384470
+    second: nuskool_krome_64x64_15
+  - first:
+      213: -5289438043160701945
+    second: nuskool_krome_64x64_16
+  - first:
+      213: -317817609216310782
+    second: nuskool_krome_64x64_17
+  - first:
+      213: 8688241698029270655
+    second: nuskool_krome_64x64_18
+  - first:
+      213: -1587183523949723755
+    second: nuskool_krome_64x64_19
+  - first:
+      213: 3809074821471310704
+    second: nuskool_krome_64x64_20
+  - first:
+      213: 1580387825005491675
+    second: nuskool_krome_64x64_21
+  - first:
+      213: 1079022577956421590
+    second: nuskool_krome_64x64_22
+  - first:
+      213: 853499134073109303
+    second: nuskool_krome_64x64_23
+  - first:
+      213: -7619264782349725739
+    second: nuskool_krome_64x64_24
+  - first:
+      213: 4346287231348255359
+    second: nuskool_krome_64x64_25
+  - first:
+      213: 5715114992799156934
+    second: nuskool_krome_64x64_26
+  - first:
+      213: -4719213667371020814
+    second: nuskool_krome_64x64_27
+  - first:
+      213: 1712126633834785587
+    second: nuskool_krome_64x64_28
+  - first:
+      213: 7253749772137942686
+    second: nuskool_krome_64x64_29
+  - first:
+      213: -8303079177878331936
+    second: nuskool_krome_64x64_30
+  - first:
+      213: 2316884131013668927
+    second: nuskool_krome_64x64_31
+  - first:
+      213: -7662672345500568031
+    second: nuskool_krome_64x64_32
+  - first:
+      213: 2319208864361001458
+    second: nuskool_krome_64x64_33
+  - first:
+      213: -5778932632902629913
+    second: nuskool_krome_64x64_34
+  - first:
+      213: -2812835915338732752
+    second: nuskool_krome_64x64_35
+  - first:
+      213: -3156688683933245328
+    second: nuskool_krome_64x64_36
+  - first:
+      213: 5140825102483529660
+    second: nuskool_krome_64x64_37
+  - first:
+      213: -6859660362960647224
+    second: nuskool_krome_64x64_38
+  - first:
+      213: -2919948236255545631
+    second: nuskool_krome_64x64_39
+  - first:
+      213: 5106418620822641207
+    second: nuskool_krome_64x64_40
+  - first:
+      213: 3334705864439135466
+    second: nuskool_krome_64x64_41
+  - first:
+      213: -3399068571861710085
+    second: nuskool_krome_64x64_42
+  - first:
+      213: 576204703375437753
+    second: nuskool_krome_64x64_43
+  - first:
+      213: -3103815305034674470
+    second: nuskool_krome_64x64_44
+  - first:
+      213: -2086276907975444390
+    second: nuskool_krome_64x64_45
+  - first:
+      213: -7537465000094917459
+    second: nuskool_krome_64x64_46
+  - first:
+      213: -6867594513463132258
+    second: nuskool_krome_64x64_47
+  - first:
+      213: 630063778407345266
+    second: nuskool_krome_64x64_48
+  - first:
+      213: 838704262619413679
+    second: nuskool_krome_64x64_49
+  - first:
+      213: 3125033656164619409
+    second: nuskool_krome_64x64_50
+  - first:
+      213: -4657948542801936472
+    second: nuskool_krome_64x64_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 25
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865eaa653e4304fa0800000000000000
+      internalID: -5818592567546419864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 39
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ff1f7be804a580800000000000000
+      internalID: -8816912362941450523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 172
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d420c8003ea2c0800000000000000
+      internalID: -4418541370262367663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_3
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 39
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dcc2a8651bdc2a0800000000000000
+      internalID: -6715516484096045733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1
+        width: 100
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a5172859a193740800000000000000
+      internalID: 5132162479806306883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_5
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563c7c37d7b7ea8e0800000000000000
+      internalID: -1680269832219016347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2874d703ec3653730800000000000000
+      internalID: 3978195583079630722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_7
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7e8aa18f0531260800000000000000
+      internalID: 7067081266803828678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_8
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870056d9e9c1a7300800000000000000
+      internalID: 250544196843536504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_9
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03baa8be84406b8c0800000000000000
+      internalID: -3983992109126735056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_10
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c20be3fc79b3760800000000000000
+      internalID: 7438706125898263690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_11
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ec13b0f08865e00800000000000000
+      internalID: 1033162762721807946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_12
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a3bda868d3a7230800000000000000
+      internalID: 3637287297119631896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_13
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8862fc50dfc1440800000000000000
+      internalID: 4908075895319070901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_14
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9218e67abad0e38f0800000000000000
+      internalID: -558994272847757015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_15
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 25
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68413d43e7f4e6e0800000000000000
+      internalID: -1809048594671384470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_16
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 25
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70418f7df142896b0800000000000000
+      internalID: -5289438043160701945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_17
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024c4b7192e69bf0800000000000000
+      internalID: -317817609216310782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_18
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7675c5cac5d29870800000000000000
+      internalID: 8688241698029270655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_19
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fbf958ef039f9e0800000000000000
+      internalID: -1587183523949723755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_20
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739ea86e5d8cd430800000000000000
+      internalID: 3809074821471310704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_21
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5fdc48a5aaee510800000000000000
+      internalID: 1580387825005491675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_22
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dff7b7515579fe00800000000000000
+      internalID: 1079022577956421590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_23
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bf78eb0fc38db00800000000000000
+      internalID: 853499134073109303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_24
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df866e8c0fe24690800000000000000
+      internalID: -7619264782349725739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_25
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a2454953d115c30800000000000000
+      internalID: 4346287231348255359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_26
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 41
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca8d445eca205f40800000000000000
+      internalID: 5715114992799156934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_27
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd8e294c2cf18eb0800000000000000
+      internalID: -4719213667371020814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_28
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b253c2a12b2c710800000000000000
+      internalID: 1712126633834785587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_29
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e4ad95cfe7aa460800000000000000
+      internalID: 7253749772137942686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_30
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed9e94ba7985cc80800000000000000
+      internalID: -8303079177878331936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_31
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f303fce77d9372020800000000000000
+      internalID: 2316884131013668927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_32
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126ba30b918b8a590800000000000000
+      internalID: -7662672345500568031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_33
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1bc28ac2c7f2020800000000000000
+      internalID: 2319208864361001458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_34
+      rect:
+        serializedVersion: 2
+        x: 3141
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50de2736b1dcfa0800000000000000
+      internalID: -5778932632902629913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_35
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b26c653acc6f8d0800000000000000
+      internalID: -2812835915338732752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_36
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070e9a7ed503134d0800000000000000
+      internalID: -3156688683933245328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_37
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf11f58131e75740800000000000000
+      internalID: 5140825102483529660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_38
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb47e17e379dc0a0800000000000000
+      internalID: -6859660362960647224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_39
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b577bc824a77d0800000000000000
+      internalID: -2919948236255545631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_40
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad2904ea4add640800000000000000
+      internalID: 5106418620822641207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_41
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec7e40d051474e20800000000000000
+      internalID: 3334705864439135466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_42
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa0df6942514d0d0800000000000000
+      internalID: -3399068571861710085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_43
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 1
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf2a96ff171ff700800000000000000
+      internalID: 576204703375437753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_44
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 1
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeccfebc680de4d0800000000000000
+      internalID: -3103815305034674470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_45
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 21
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58f50da43e0c03e0800000000000000
+      internalID: -2086276907975444390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_46
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac1762848b856790800000000000000
+      internalID: -7537465000094917459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fbb931d2761b0a0800000000000000
+      internalID: -6867594513463132258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_48
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 0
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c6fc11baf6eb800800000000000000
+      internalID: 630063778407345266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_49
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac390d451da3ab00800000000000000
+      internalID: 838704262619413679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_50
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19415da9d895e5b20800000000000000
+      internalID: 3125033656164619409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nuskool_krome_64x64_51
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 0
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8affd3caa74ab5fb0800000000000000
+      internalID: -4657948542801936472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

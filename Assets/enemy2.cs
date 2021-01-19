@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public enum EnemyState
 {
@@ -17,40 +18,74 @@ public enum EnemyType{
     Boss1
 };
 
+
 public class enemy2 : MonoBehaviour
 {
     // Start is called before the first frame update
-GameObject player;
-public EnemyState currState = EnemyState.Wander;
-public EnemyType enemyType;
+    GameObject player;
+    public EnemyState currState = EnemyState.Wander;
+    public EnemyType enemyType;
 
-public GameObject ParticleFXExplosion;
+    
+    public GameObject ParticleFXExplosion;
 
-public int enemyHealth;
-public int maxHealth;
-public float range;
-public float speed;
-public float attackRange;
-public float coolDown; 
-private bool chooseDir = false;
-private bool dead = false;
-private bool coolDownAttack = false;
+    public int enemyHealth;
+    public int maxHealth;
+    public float range;
+    public float speed;
+    public float attackRange;
+    public float coolDown; 
+    private bool chooseDir = false;
+    private bool dead = false;
+    private bool coolDownAttack = false;
 
-public GameObject bulletPrefab;
-private Vector3 randomDir;
+    public GameObject bulletPrefab;
+    private Vector3 randomDir;
+
+    private Animator anim;
     void Start()
     {
+        if (SceneManager.GetActiveScene().name.Length < 7)
+        {
+            if (Player.clear1[int.Parse(SceneManager.GetActiveScene().name.Substring(4)) - 1])
+            {
+                Destroy(gameObject);
+            }
+        }
+        else
+        {
+            if (Player.clear2[int.Parse(SceneManager.GetActiveScene().name.Substring(6)) - 1])
+            {
+                Destroy(gameObject);
+            }
+        }
+        
+        Player.enemy_num++;
         player = GameObject.FindGameObjectWithTag("Player");
         maxHealth = enemyHealth;
-        if(enemyType == EnemyType.Boss1){
-        StartCoroutine(SpellStart());
+        if (SceneManager.GetActiveScene().name.Length < 7)
+        {
+            if (enemyType == EnemyType.Boss1 && !Player.clear1[int.Parse(SceneManager.GetActiveScene().name.Substring(4)) - 1])
+            {
+                StartCoroutine(SpellStart());
+            }
         }
+        else
+        {
+            if (enemyType == EnemyType.Boss1 && !Player.clear2[int.Parse(SceneManager.GetActiveScene().name.Substring(6)) - 1])
+            {
+                StartCoroutine(SpellStart());
+            }
+        }
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
-     switch(currState){
+        anim.SetFloat("MoveX", player.transform.position.x - transform.position.x);
+        anim.SetFloat("MoveY", player.transform.position.y - transform.position.y);
+        switch (currState){
          case(EnemyState.Wander):
          Wander();
          break;
@@ -73,6 +108,11 @@ private Vector3 randomDir;
      if(Vector3.Distance(transform.position, player.transform.position) <= attackRange){
          currState = EnemyState.Attack;
      }
+    }
+
+    void OnDestroy()
+    {
+        Player.enemy_num--;
     }
 
     private bool IsPlayerInRange(float range){
@@ -106,7 +146,8 @@ private IEnumerator ChooseDirection(){
     }
 
     void Attack(){
-        if(!coolDownAttack){
+        if(!coolDownAttack)
+        {
             switch(enemyType){
                 case(EnemyType.Melee):
                     GameController.DamagePlayer(1);
@@ -145,6 +186,8 @@ private IEnumerator ChooseDirection(){
         }
         
     }
+
+    
 
 IEnumerator SpellStart() 
 { 
