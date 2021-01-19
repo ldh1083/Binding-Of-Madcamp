@@ -73,7 +73,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_Sprite: {fileID: 21300000, guid: 5ff9fd1dfa3921644a587a08e82b9e1c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -101,6 +101,8 @@ MonoBehaviour:
     type: 3}
   lifetime: 3
   isEnemyBullet: 0
+  isBossBullet: 0
+  isFamiliarBullet: 0
 --- !u!95 &1870299773
 Animator:
   serializedVersion: 3
@@ -136,6 +138,8 @@ MonoBehaviour:
     type: 3}
   lifetime: 300
   isEnemyBullet: 0
+  isBossBullet: 0
+  isFamiliarBullet: 0
 --- !u!58 &-3361857147818607910
 CircleCollider2D:
   m_ObjectHideFlags: 0

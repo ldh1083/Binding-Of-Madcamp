@@ -15,7 +15,8 @@ public enum EnemyType{
     Melee,
     Ranged,
 
-    Boss1
+    Boss1,
+    Boss2
 };
 
 
@@ -26,8 +27,13 @@ public class enemy2 : MonoBehaviour
     public EnemyState currState = EnemyState.Wander;
     public EnemyType enemyType;
 
-    
+    private LineRenderer lineRenderer;
     public GameObject ParticleFXExplosion;
+
+    public GameObject bombExplosion;
+    public GameObject warning;
+    private bool isRush = false;
+    Vector3 rushPos;
 
     public int enemyHealth;
     public int maxHealth;
@@ -42,6 +48,7 @@ public class enemy2 : MonoBehaviour
     public GameObject bulletPrefab;
     private Vector3 randomDir;
 
+    public GameObject stair;
     private Animator anim;
     void Start()
     {
@@ -72,9 +79,12 @@ public class enemy2 : MonoBehaviour
         }
         else
         {
-            if (enemyType == EnemyType.Boss1 && !Player.clear2[int.Parse(SceneManager.GetActiveScene().name.Substring(6)) - 1])
+          
+            if (enemyType == EnemyType.Boss2 && !Player.clear2[int.Parse(SceneManager.GetActiveScene().name.Substring(6)) - 1])
             {
-                StartCoroutine(SpellStart());
+                StartCoroutine(SpellStart2());
+                StartCoroutine(Rush());
+                StartCoroutine(Bomb());
             }
         }
         anim = GetComponent<Animator>();
@@ -85,6 +95,14 @@ public class enemy2 : MonoBehaviour
     {
         anim.SetFloat("MoveX", player.transform.position.x - transform.position.x);
         anim.SetFloat("MoveY", player.transform.position.y - transform.position.y);
+        if (isRush == true)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, rushPos, 50 * Time.deltaTime);
+            if (transform.position == rushPos)
+            {
+                isRush = false;
+            }
+        }
         switch (currState){
          case(EnemyState.Wander):
          Wander();
@@ -110,9 +128,54 @@ public class enemy2 : MonoBehaviour
      }
     }
 
+    private IEnumerator Bomb()
+    {
+        do
+        {
+            Vector3 playerPos = player.transform.position;
+            GameObject temp = Instantiate(warning, playerPos, transform.rotation) as GameObject;
+            yield return new WaitForSeconds(1f);
+            Destroy(temp);
+            temp = Instantiate(bombExplosion, playerPos, transform.rotation) as GameObject;
+            yield return new WaitForSeconds(1f);
+            Destroy(temp);
+        } while (true);
+    }
+
+    private IEnumerator Rush()
+    {
+        do
+        {
+            yield return new WaitForSeconds(10f);
+            isRush = false;
+            rushPos = player.transform.position;
+            //rushPos = rushPos + (rushPos - transform.position) * 3;
+            lineRenderer = GetComponent<LineRenderer>();
+            lineRenderer.enabled = true;
+            //lineRenderer.SetColors(Color.red, Color.red);
+            lineRenderer.SetWidth(1f, 1f);
+
+            lineRenderer.SetPosition(0, transform.position);
+            lineRenderer.SetPosition(1, rushPos + (rushPos - transform.position) * 3);
+            yield return new WaitForSeconds(1f);
+            lineRenderer.enabled = false;
+            isRush = true;
+        } while (true);
+
+    }
+
     void OnDestroy()
     {
         Player.enemy_num--;
+        if(enemyType == EnemyType.Boss1)
+        {
+            stair.SetActive(true);
+        }
+        if (enemyType == EnemyType.Boss2)
+        {
+            Destroy(player);
+            Application.LoadLevel("Ending");
+        }
     }
 
     private bool IsPlayerInRange(float range){
@@ -124,7 +187,7 @@ private IEnumerator ChooseDirection(){
     yield return new WaitForSeconds(Random.Range(2f, 8f));
     randomDir = new Vector3(0,0,Random.Range(0,360));
     Quaternion nextRotation = Quaternion.Euler(randomDir);
-    transform.rotation = Quaternion.Lerp(transform.rotation, nextRotation, Random.Range(0.5f, 2.5f));
+    //transform.rotation = Quaternion.Lerp(transform.rotation, nextRotation, Random.Range(0.5f, 2.5f));
     chooseDir = false;
 }
 
@@ -213,11 +276,44 @@ yield return new WaitForSeconds(10f);
 
 
 //지정해둔 각도의 방향으로 모든 총탄을 날리고, 날아가는 방향으로 방향회전을 해줍니다.
-} 
+}
+
+
+    IEnumerator SpellStart2()
+    {
+        do
+        {
+            float oneShoting = 50f;
+            float angle = 360 / oneShoting;
+
+            for (int j = 0; j < 10; j++)
+            {
+                for (int i = 0; i < oneShoting; i++)
+                {
+                    //Debug.Log(i); 
+                    GameObject obj;
+                    obj = (GameObject)Instantiate(bulletPrefab, transform.position, Quaternion.identity);
+                    //보스의 위치에 bullet을 생성합니다.
+                    obj.AddComponent<Rigidbody2D>().gravityScale = 0;
+                    obj.GetComponent<bullet>().isBossBullet = true;
+                    obj.GetComponent<Rigidbody2D>().AddForce(new Vector2(500f * Mathf.Cos(Mathf.PI * 2 * i / oneShoting), 500f * Mathf.Sin(Mathf.PI * i * 2 / oneShoting)));
+                    //Debug.Log(speed*Mathf.Cos(Mathf.PI*2*i/oneShoting));
+                    obj.transform.Rotate(new Vector3(0f, 0f, 360 * i / oneShoting - 90));
+                    yield return new WaitForSeconds(0.01f);
+
+                }
+            }
+            yield return new WaitForSeconds(10f);
+        } while (true);
 
 
 
-private IEnumerator CoolDown(){
+        //지정해둔 각도의 방향으로 모든 총탄을 날리고, 날아가는 방향으로 방향회전을 해줍니다.
+    }
+
+
+
+    private IEnumerator CoolDown(){
     coolDownAttack = true;
     yield return new WaitForSeconds(coolDown);
     coolDownAttack = false;
@@ -237,4 +333,39 @@ private IEnumerator CoolDown(){
         }
 
     }
+
+    private void OnTriggerStay2D(Collider2D other)
+    {
+        print("here1");
+        if (other.tag.Equals("Player"))
+        {
+            GameController.DamagePlayer(1);
+            print("here2");
+
+        }
+        /*else if (other.tag.Equals("Obstacle"))
+        {
+            print("here3");
+            isRush = false;
+            rushPos = player.transform.position;
+        }*/
+    }
+
+    /*private void OnCollisionEnter2D(Collider2D other)
+    {
+        print("here4");
+
+        if (other.tag.Equals("Player"))
+        {
+            GameController.DamagePlayer(1);
+            print("here5");
+
+        }
+        if (other.tag.Equals("Obstacle"))
+        {
+            print("here6");
+            isRush = false;
+            rushPos = player.transform.position;
+        }
+    }*/
 }

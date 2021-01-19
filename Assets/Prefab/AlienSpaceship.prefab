@@ -12,6 +12,8 @@ GameObject:
   - component: {fileID: 43602400535936850}
   - component: {fileID: 43602400535936848}
   - component: {fileID: 43602400535936861}
+  - component: {fileID: 7431018889613844817}
+  - component: {fileID: 5236337885384048676}
   m_Layer: 0
   m_Name: AlienSpaceship
   m_TagString: Enemy
@@ -28,7 +30,7 @@ Transform:
   m_GameObject: {fileID: 43602400535936860}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 15.42, y: -3.59, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -93,7 +95,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -125,10 +127,54 @@ MonoBehaviour:
   enemyType: 1
   ParticleFXExplosion: {fileID: 609895933604413433, guid: dda8926c9b341a94c803ca9793dd7266,
     type: 3}
-  enemyHealth: 3
+  bombExplosion: {fileID: 0}
+  warning: {fileID: 0}
+  enemyHealth: 4
+  maxHealth: 0
   range: 500
   speed: 5
   attackRange: 10
   coolDown: 2
   bulletPrefab: {fileID: 2785753139923107917, guid: d6ae9b08732e2f443ba33d928cf99065,
     type: 3}
+  stair: {fileID: 0}
+--- !u!50 &7431018889613844817
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 43602400535936860}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
+--- !u!95 &5236337885384048676
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 43602400535936860}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fb3d97b0e3665dc4cb4ce12cb01d94dd, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

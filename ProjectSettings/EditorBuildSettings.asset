@@ -48,6 +48,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Rooms/Room12.unity
     guid: 2da7c5beda0c6d94aaa969fd3466ef2d
   - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: a51c259ef9728354bbf7d956cac30b1c
+  - enabled: 1
     path: Assets/Scenes/Rooms_2/Room2_1.unity
     guid: 277dda014351c44468d4176b0013e98e
   - enabled: 1

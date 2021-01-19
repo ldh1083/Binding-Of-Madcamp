@@ -9,40 +9,52 @@ public class Familiar : MonoBehaviour
     public FamiliarData familiar;
     private float lastOffsetX;
     private float lastOffsetY;
+    private Animator anim;
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
     private void Start() {
         player = GameObject.FindGameObjectWithTag("Player");
-
+        anim = GetComponent<Animator>();
     }
 
     private void Update() {
+        anim.SetFloat("MoveX", player.transform.position.x - transform.position.x);
+        anim.SetFloat("MoveY", player.transform.position.y - transform.position.y);
         float distanceX = Input.GetAxis("Horizontal");
         //아까 지정한 Axes를 통해 키의 방향을 판단하고 속도와 프레임 판정을 곱해 이동량을 정해줍니다.
         float distanceY = Input.GetAxis("Vertical");
         float shootHor = Input.GetAxis("ShootHorizontal");
         float shootVert = Input.GetAxis("ShootVertical");
-        if((shootHor != 0 || shootVert != 0) && Time.time > lastFire + familiar.fireDelay){
-                Shoot(shootHor, shootVert);
-                lastFire = Time.time;
+        if ((shootHor != 0 || shootVert != 0) && Time.time > lastFire + familiar.fireDelay)
+        {
+            Shoot(shootHor, shootVert);
+            lastFire = Time.time;
         }
 
-        if(distanceX !=0 || distanceY != 0){
+        if (distanceX != 0 || distanceY != 0)
+        {
             float offsetX = (distanceX < 0) ? Mathf.Floor(distanceX) : Mathf.Ceil(distanceX);
             float offsetY = (distanceY < 0) ? Mathf.Floor(distanceY) : Mathf.Ceil(distanceY);
-            transform.position = Vector2.MoveTowards(transform.position, player.transform.position, familiar.speed*Time.deltaTime);
+            transform.position = Vector2.MoveTowards(transform.position, player.transform.position, familiar.speed * Time.deltaTime);
             lastOffsetX = offsetX;
             lastOffsetY = offsetY;
         }
-        else{
-            if(!(transform.position.x < lastOffsetX + 0.5f) || !(transform.position.y < lastOffsetY + 0.5f)){
-                transform.position = Vector2.MoveTowards(transform.position, new Vector2(player.transform.position.x - lastOffsetX, player.transform.position.y - lastOffsetY), familiar.speed*Time.deltaTime);
+        else
+        {
+            if (!(transform.position.x < lastOffsetX + 0.5f) || !(transform.position.y < lastOffsetY + 0.5f))
+            {
+                transform.position = Vector2.MoveTowards(transform.position, new Vector2(player.transform.position.x - lastOffsetX, player.transform.position.y - lastOffsetY), familiar.speed * Time.deltaTime);
             }
         }
     }
 
-    void Shoot(float x, float y){
+    void Shoot(float x, float y)
+    {
         GameObject bullet = Instantiate(familiar.bulletPrefab, transform.position, Quaternion.identity) as GameObject;
-        float posX = (x < 0) ? Mathf.Floor(x)*familiar.speed : Mathf.Ceil(x)*familiar.speed;
-        float posY = (y < 0) ? Mathf.Floor(y) *familiar.speed: Mathf.Ceil(y)*familiar.speed;
+        float posX = (x < 0) ? Mathf.Floor(x) * familiar.speed : Mathf.Ceil(x) * familiar.speed;
+        float posY = (y < 0) ? Mathf.Floor(y) * familiar.speed : Mathf.Ceil(y) * familiar.speed;
         bullet.AddComponent<Rigidbody2D>().gravityScale = 0;
         bullet.GetComponent<Rigidbody2D>().velocity = new Vector2(posX, posY);
     }

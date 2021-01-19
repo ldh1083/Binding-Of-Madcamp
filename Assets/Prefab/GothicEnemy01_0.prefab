@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5460743580497613639}
   - component: {fileID: 5460743580497613634}
   - component: {fileID: 4930540596789594547}
+  - component: {fileID: -8969049146812346431}
   m_Layer: 0
   m_Name: GothicEnemy01_0
   m_TagString: Enemy
@@ -145,10 +146,35 @@ MonoBehaviour:
   enemyType: 0
   ParticleFXExplosion: {fileID: 609895933604413433, guid: dda8926c9b341a94c803ca9793dd7266,
     type: 3}
-  enemyHealth: 1
+  bombExplosion: {fileID: 0}
+  warning: {fileID: 0}
+  enemyHealth: 6
+  maxHealth: 0
   range: 500
   speed: 5
   attackRange: 1
   coolDown: 2
   bulletPrefab: {fileID: 2785753139923107917, guid: d6ae9b08732e2f443ba33d928cf99065,
     type: 3}
+  stair: {fileID: 0}
+--- !u!50 &-8969049146812346431
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5460743580497613636}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4

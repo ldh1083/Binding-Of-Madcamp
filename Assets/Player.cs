@@ -57,7 +57,7 @@ public class Player : MonoBehaviour
 
         while(GameController.SpawnFamiliar != 0){
             GameObject obj = Instantiate(문경, transform.position, transform.rotation) as GameObject;
-            obj.transform.parent = this.transform;
+            //obj.transform.parent = this.transform;
             GameController.SpawnFamiliar--;
         }
         moveControl();

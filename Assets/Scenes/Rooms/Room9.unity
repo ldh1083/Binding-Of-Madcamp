@@ -219,13 +219,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7496322741224987536, guid: 7d277ae1b68b0e749bf7c6abb1c4c7b0,
         type: 3}
+      propertyPath: stair
+      value: 
+      objectReference: {fileID: 1457983440}
+    - target: {fileID: 7496322741224987536, guid: 7d277ae1b68b0e749bf7c6abb1c4c7b0,
+        type: 3}
       propertyPath: coolDown
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 7496322741224987536, guid: 7d277ae1b68b0e749bf7c6abb1c4c7b0,
         type: 3}
+      propertyPath: maxHealth
+      value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 7496322741224987536, guid: 7d277ae1b68b0e749bf7c6abb1c4c7b0,
+        type: 3}
       propertyPath: attackRange
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7496322741224987536, guid: 7d277ae1b68b0e749bf7c6abb1c4c7b0,
+        type: 3}
+      propertyPath: enemyHealth
+      value: 300
       objectReference: {fileID: 0}
     - target: {fileID: 7496322741224987540, guid: 7d277ae1b68b0e749bf7c6abb1c4c7b0,
         type: 3}
@@ -566,7 +581,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1457983441
 MonoBehaviour:
   m_ObjectHideFlags: 0
